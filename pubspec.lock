@@ -139,6 +139,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  picture_info:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: main
+      resolved-ref: "0cbf6f8bd225300a8bbdf7f78caaa4906a796706"
+      url: "https://github.com/MarLiz-SanCam/package_picture_info.git"
+    source: git
+    version: "0.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
